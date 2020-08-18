@@ -1,0 +1,36 @@
+<style>
+    #header{
+        height: 60px;
+        color: #ffffff;
+        background-color: #5876a8;
+        }
+    .col-3{
+        float: left;
+        width: 33%;
+        display: inline-block;
+    }
+    .mainhead{
+        padding-left: 30px;
+        font-family: sans-serif;
+        padding-bottom: 2px;
+        
+    }
+    .menu li{
+        list-style-type: none;
+        display: inline;
+        padding-right: 30p
+    }
+        section{
+            font-family: sans-serif;
+            margin: 50px;
+            padding: 50px;
+        }
+        table {
+                font-family: sans-serif;
+                border-collapse: collapse;
+                width: 100%;
+               }
+        td,th{
+            padding: 10px;
+        }
+    </style>
